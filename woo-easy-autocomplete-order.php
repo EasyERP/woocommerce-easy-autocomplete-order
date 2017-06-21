@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WooCommerce Easy Autocomplete Order
-Plugin URI: http://wordpress.org/plugins/woocommerce-easy-autocomplete-order
+Plugin URI: http://wordpress.org/plugins/woo-easy-autocomplete-order
 Description: Autocomplete order for the type of payment "Check payments(cheque)", "Cash on delivery(cod)"  or "Direct bank transfer(bacs)"
-Version: 1.0
+Version: 1.1
 Author: Team EasyErp
 Author URI: https://easyerp.com
 License: “GPLv2 or later”
@@ -16,7 +16,7 @@ if ( ! function_exists( 'init_wc_easy_autocomplete_order' ) ) {
 	 *
 	 * @since 1.0
 	 *
-	 * @package woocommerce-easy-autocomplete-order
+	 * @package woo-easy-autocomplete-order
 	 */
 	function init_wc_easy_autocomplete_order() {
 		if ( class_exists( 'woocommerce' ) ) {
