@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WooCommerce Easy Autocomplete Order
+Plugin Name: WooCommerce Easy Autocomplete Orders
 Plugin URI: http://wordpress.org/plugins/woo-easy-autocomplete-order
 Description: Autocomplete order for the type of payment "Check payments(cheque)", "Cash on delivery(cod)"  or "Direct bank transfer(bacs)"
 Version: 1.1
